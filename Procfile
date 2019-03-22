@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT floodnaturaldisaster_1575.wsgi:application
